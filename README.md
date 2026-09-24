@@ -1,6 +1,6 @@
-# RedAvalanche
+# Purple CTI
 
-RedAvalanche is a Purple Team / CTI repository that documents owned infrastructure, operational observations, and security decisions. It serves as a record of architecture choices, telemetry sources, detection coverage, threat intelligence inputs, and changes to defensive posture.
+Purple CTI is a Purple Team / CTI repository that documents owned infrastructure, operational observations, and security decisions. It serves as a record of architecture choices, telemetry sources, detection coverage, threat intelligence inputs, and changes to defensive posture.
 
 This repository is maintained as a factual log of the environment and its evolution, including:
 
